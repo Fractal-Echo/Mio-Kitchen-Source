@@ -1,11 +1,18 @@
 # Built files
 MIO-KITCHEN-win.zip
 bin/configs.json
+bin/module/
+bin/plugin_db.json
+bin/temp/
+boot.img
+boot/
 build/
 dist/
 src/__pycache__/
 src/core/__pycache__/
 src/core/ntpiutils/__pycache__/
+src/core/splash_editor/__pycache__/
+src/core/splash_editor/src/__pycache__/
 src/porttool/__pycache__/
 src/tkui/__pycache__/
 tool.spec
